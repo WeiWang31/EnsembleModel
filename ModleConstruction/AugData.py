@@ -1,6 +1,10 @@
+'''
+@author: WeiWang
+@time: 2021/8/25
+@email: ww1119694082@gmail.com
+'''
 import numpy as np
 import random
-
 def aug(id):
     data = np.load('path of sample/sample' + id + '.npz')
 

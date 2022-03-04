@@ -1,3 +1,9 @@
+'''
+@author: WeiWang
+@time: 2021/9/20
+@email: ww1119694082@gmail.com
+'''
+
 from itertools import groupby
 import numpy as np
 import os

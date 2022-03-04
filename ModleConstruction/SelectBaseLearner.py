@@ -1,3 +1,8 @@
+'''
+@author: WeiWang
+@time: 2021/8/26
+@email: ww1119694082@gmail.com
+'''
 import numpy as np
 from SingleModel import single_model
 from sklearn import metrics

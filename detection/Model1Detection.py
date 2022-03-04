@@ -1,3 +1,8 @@
+'''
+@author: WeiWang
+@time: 2021/9/20
+@email: ww1119694082@gmail.com
+'''
 from keras.optimizers import SGD
 from ModleConstruction.SingleModel import single_model
 import numpy as np

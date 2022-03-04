@@ -1,3 +1,8 @@
+'''
+@author: WeiWang
+@time: 2021/8/19
+@email: ww1119694082@gmail.com
+'''
 import numpy as np
 from keras.layers import Dense, Conv1D, ELU,Flatten, Dropout, BatchNormalization, MaxPooling1D
 from keras.models import Model

@@ -1,3 +1,8 @@
+'''
+@author: WeiWang
+@time: 2021/8/26
+@email: ww1119694082@gmail.com
+'''
 from SingleModel import single_model
 import numpy as np
 from keras.callbacks import ModelCheckpoint

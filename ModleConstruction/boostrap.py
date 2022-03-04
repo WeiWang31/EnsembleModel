@@ -1,3 +1,8 @@
+'''
+@author: WeiWang
+@time: 2021/8/25
+@email: ww1119694082@gmail.com
+'''
 import numpy as np
 
 def bootstrap(sample_id):
